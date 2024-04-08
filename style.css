@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: #305050;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+
+#nome-usuario{
+    font-weight: bold;
+}
+
+.italico{
+    font-style: italic;
+}
+
+.subtitulo{
+    color: #FFA500;
+}
+
+.cabecalho{
+    border-bottom: 1px solid gray;
+}
+
+.rodape{
+    border-top: 1px solid gray;
+}
